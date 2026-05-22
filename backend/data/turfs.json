@@ -1,0 +1,162 @@
+[
+  {
+    "turfName": "Turf XL",
+    "turfLocation": "48, SN Roy Rd, New Alipore, Kolkata, West Bengal 700038",
+    "turfReview": 4.4,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 12:00 AM",
+    "turfFees": "₹1200/hour"
+  },
+  {
+    "turfName": "LOVE PASSION CRICKET Turf and Indoor Nets",
+    "turfLocation": "Jothbhim Main Rd, New Town, Kolkata, West Bengal 700160",
+    "turfReview": 4.8,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1500/hour"
+  },
+  {
+    "turfName": "Tolly Turf Arena",
+    "turfLocation": "Bansdroni, Kolkata, West Bengal 700096",
+    "turfReview": 4.8,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 12:00 AM",
+    "turfFees": "₹1400/hour"
+  },
+  {
+    "turfName": "Tiger Turf",
+    "turfLocation": "8 Topsia Rd, Kolkata, West Bengal 700046",
+    "turfReview": 3.7,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1000/hour"
+  },
+  {
+    "turfName": "Turf Cricket Academy",
+    "turfLocation": "AMP Vaisaakkhi Mall, Salt Lake, Kolkata, West Bengal 700091",
+    "turfReview": 4.9,
+    "turfStatus": "Deactive",
+    "turfHours": "05:30 PM - 08:00 PM",
+    "turfFees": "₹800/hour"
+  },
+  {
+    "turfName": "The MEGA Turf",
+    "turfLocation": "Jodthbhim, Newtown, Kolkata, West Bengal 700160",
+    "turfReview": 5.0,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1800/hour"
+  },
+  {
+    "turfName": "GTA Sports Turf Kolkata",
+    "turfLocation": "Bagpota, Kolkata, West Bengal 700061",
+    "turfReview": 4.9,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 11:30 PM",
+    "turfFees": "₹1600/hour"
+  },
+  {
+    "turfName": "Elgin Turf",
+    "turfLocation": "Justice Dwarakanath Rd, Bhowanipore, Kolkata, West Bengal 700020",
+    "turfReview": 4.3,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 11:00 PM",
+    "turfFees": "₹1500/hour"
+  },
+  {
+    "turfName": "Turf XL Baisakhi",
+    "turfLocation": "AMP Vaishaaki Mall, Salt Lake, Kolkata, West Bengal 700091",
+    "turfReview": 4.3,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1300/hour"
+  },
+  {
+    "turfName": "Kasba Turf",
+    "turfLocation": "Swinhoe Lane, Kasba, Kolkata, West Bengal 700042",
+    "turfReview": 4.5,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1400/hour"
+  },
+  {
+    "turfName": "A2 Turfside & Cricket Academy",
+    "turfLocation": "Phoolbagan, Kankurgachi, Kolkata, West Bengal 700010",
+    "turfReview": 4.8,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 11:00 PM",
+    "turfFees": "₹1700/hour"
+  },
+  {
+    "turfName": "The Royal Turf",
+    "turfLocation": "36 Topsia Rd, Kolkata, West Bengal 700039",
+    "turfReview": 4.7,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 02:00 AM",
+    "turfFees": "₹2000/hour"
+  },
+  {
+    "turfName": "Orchid Arena",
+    "turfLocation": "East Topsia, Kolkata, West Bengal 700105",
+    "turfReview": 4.5,
+    "turfStatus": "Deactive",
+    "turfHours": "12:00 PM - 07:00 PM",
+    "turfFees": "₹1800/hour"
+  },
+  {
+    "turfName": "Turf Edge",
+    "turfLocation": "B.B.D. Bagh, Kolkata, West Bengal 700001",
+    "turfReview": 4.7,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1500/hour"
+  },
+  {
+    "turfName": "Sporturf Arena",
+    "turfLocation": "Picnic Garden Rd, Kasba, Kolkata, West Bengal 700039",
+    "turfReview": 4.3,
+    "turfStatus": "Active",
+    "turfHours": "Open 24 Hours",
+    "turfFees": "₹1400/hour"
+  },
+  {
+    "turfName": "Unity Turf",
+    "turfLocation": "73C Topsia Rd, Gobra, Kolkata, West Bengal 700046",
+    "turfReview": 4.8,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 12:00 AM",
+    "turfFees": "₹1600/hour"
+  },
+  {
+    "turfName": "SkyTurf",
+    "turfLocation": "AJC Bose Rd, Elgin, Kolkata, West Bengal 700017",
+    "turfReview": 4.2,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 12:00 AM",
+    "turfFees": "₹1700/hour"
+  },
+  {
+    "turfName": "Estadio Kolkata",
+    "turfLocation": "Sector V, Salt Lake, Kolkata, West Bengal",
+    "turfReview": 4.6,
+    "turfStatus": "Active",
+    "turfHours": "07:00 AM - 11:00 PM",
+    "turfFees": "₹1800/hour"
+  },
+  {
+    "turfName": "Baguiati Box Cricket Turf",
+    "turfLocation": "Baguiati, Kolkata, West Bengal",
+    "turfReview": 4.1,
+    "turfStatus": "Active",
+    "turfHours": "08:00 AM - 10:00 PM",
+    "turfFees": "₹1200/hour"
+  },
+  {
+    "turfName": "Newtown Cricket Box Arena",
+    "turfLocation": "Action Area 1, Newtown, Kolkata, West Bengal",
+    "turfReview": 4.4,
+    "turfStatus": "Active",
+    "turfHours": "06:00 AM - 11:00 PM",
+    "turfFees": "₹1900/hour"
+  }
+]
